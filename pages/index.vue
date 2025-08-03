@@ -3,7 +3,7 @@
 <template>
   <div class="relative min-h-screen w-full">
     <!-- Fullscreen Hero Background -->
-    <div class="absolute inset-0 w-full h-full bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1500&q=80');"></div>
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center" style="background-image: url('/landing.jpg');"></div>
     <div class="absolute inset-0 bg-black bg-opacity-50"></div>
 <div>
 <div class="fixed top-4 left-1/2 transform -translate-x-1/2 w-[70%] max-w-6xl z-50 bg-white/20 backdrop-blur-md border border-white/10 rounded-lg shadow-md">
